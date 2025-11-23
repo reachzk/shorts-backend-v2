@@ -1,5 +1,4 @@
 fastapi
-uvicorn
+uvicorn[standard]
 moviepy
 python-multipart
-ffmpeg-python
